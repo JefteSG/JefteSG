@@ -48,3 +48,4 @@
 <img href="https://raw.githubusercontent.com/JefteSG/JefteSG/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+![Snake animation](https://github.com/jeftesg/jeftesg/blob/output/github-contribution-grid-snake.svg)
