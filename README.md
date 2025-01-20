@@ -1,4 +1,4 @@
-v<h1 align="left">Hi there, I'm Jefte Sales!!</h1>
+<h1 align="left">Hi there, I'm Jefte Sales!!</h1>
 
 ###
 
