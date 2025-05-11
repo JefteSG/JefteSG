@@ -1,3 +1,5 @@
+![Status](./profile-3d-contrib/profile-night-green.svg)
+
 <h1 align="left">Hi there, I'm Jefte Sales!!</h1>
 
 ###
@@ -52,6 +54,7 @@
 </div>
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=JefteSG" height="150" alt="stats graph"  />
