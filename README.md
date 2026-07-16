@@ -1,8 +1,8 @@
 <h1 align="left">Hi there, I'm Jefte Sales 👋</h1>
 
-<p align="left">
+<!-- <p align="left">
   <a href="#portugues">🇧🇷 Português</a> | <a href="#english">🇬🇧 English</a>
-</p>
+</p> -->
 
 ###
 
