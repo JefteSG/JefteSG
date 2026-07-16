@@ -15,7 +15,7 @@
 <p align="left">
   Moro na região de Campinas, Brasil<br>
   Python/FastAPI e Node.js no backend, Docker/Kubernetes para empacotar e rodar<br>
-  Interessado em sistemas — os de código e os das civilizações<br>
+  Interessado em sistemas - os de código e os das civilizações<br>
   Tecnólogo em Análise e Desenvolvimento de Sistemas
 </p>
 
@@ -35,7 +35,7 @@
 <p align="left">
   Based in the Campinas region, Brazil<br>
   Python/FastAPI & Node.js on the backend, Docker/Kubernetes to ship and run it<br>
-  Interested in systems — the ones made of code, and the ones made of civilizations<br>
+  Interested in systems - the ones made of code, and the ones made of civilizations<br>
   Systems Analysis & Development (technologist degree)
 </p>
 
